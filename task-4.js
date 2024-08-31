@@ -7,7 +7,7 @@
 
 const ages = 49;
 const fruits = ['mango', 'orange', 'jambura'];
-const arrayCheck = Array.isArray(fruits)
+const arrayCheck = Array.isArray(fruits);
 // console.log(Array.isArray(ages));
 // console.log(Array.isArray(fruits));
 
